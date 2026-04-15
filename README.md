@@ -7,3 +7,8 @@ This stores convenient installation scripts.
 ```bash
 curl -fsSL https://raw.githubusercontent.com/charliezchen/one_line_install_scripts/main/install_codex.sh | sh
 ```
+
+## Claude Code
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
