@@ -12,3 +12,9 @@ curl -fsSL https://raw.githubusercontent.com/charliezchen/one_line_install_scrip
 ```bash
 curl -fsSL https://claude.ai/install.sh | bash
 ```
+
+## uv
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+source ~/.bashrc
+```
